@@ -6,7 +6,7 @@
 package com.example.springsample.controller;
 
 import com.example.springsample.repository.ProductRepository;
-import com.exapmle.springsample.domain.Product;
+import com.example.springsample.domain.Product;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -5,7 +5,7 @@
  */
 package com.example.springsample.repository;
 
-import com.exapmle.springsample.domain.Product;
+import com.example.springsample.domain.Product;
 import java.util.List;
 
 /**

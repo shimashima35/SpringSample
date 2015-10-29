@@ -51,6 +51,7 @@
                                         <input class="form-control" placeholder="Password" name='j_password' type="password" value="">
                                     </div>
                                     <input class="btn btn-lg btn-success btn-block" type="submit" value="Login">
+                                    <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
                                 </fieldset>
                             </form>
                         </div>
